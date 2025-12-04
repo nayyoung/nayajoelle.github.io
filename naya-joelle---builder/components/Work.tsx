@@ -35,7 +35,7 @@ const Work: React.FC = () => {
         transition={{ duration: 0.6 }}
         className="mb-16 text-sm font-medium uppercase tracking-widest text-[#555]"
       >
-        Work
+        What I've made
       </motion.h2>
 
       <div className="grid grid-cols-1 gap-x-8 gap-y-16 md:grid-cols-2">
