@@ -14,6 +14,12 @@ const Hero: React.FC = () => {
         >
           Builder. <br />
           <span className="text-[#555]">Can't stop.</span>
+          <motion.span
+            animate={{ opacity: [1, 0, 1] }}
+            transition={{ duration: 1.2, repeat: Infinity, ease: "easeInOut" }}
+            className="ml-2 inline-block h-16 w-1 bg-[#e07a24] md:h-24 lg:h-28"
+            style={{ boxShadow: '0 0 10px #e07a24' }}
+          />
         </motion.h1>
 
         <motion.p 
