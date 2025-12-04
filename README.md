@@ -4,7 +4,7 @@ Personal portfolio website for Naya Joelle, built with React, TypeScript, and Vi
 
 ## 🚀 Live Site
 
-Visit the live site at: [https://nayyoung.github.io/nayajoelle.github.io](https://nayyoung.github.io/nayajoelle.github.io)
+Visit the live site at: [https://nayyoung.github.io/nayajoelle.github.io/](https://nayyoung.github.io/nayajoelle.github.io/)
 
 ## 🛠️ Development
 
