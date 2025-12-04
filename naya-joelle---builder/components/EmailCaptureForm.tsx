@@ -97,7 +97,7 @@ const EmailCaptureForm: React.FC<EmailCaptureFormProps> = ({
           </div>
         )}
 
-        <p className="text-xs text-[#555]">
+        <p className="text-xs text-[#888]">
           {smallText}
         </p>
       </form>
